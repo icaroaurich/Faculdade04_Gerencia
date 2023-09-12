@@ -1,0 +1,148 @@
+pmbok (6°a) 42 processos
+estrurura - fases ou grupos (5)
+
+Estudo
+	Por que que não tem nenhum processo dentro de iniciação(planejamento)? (12.09.23 20:42)
+		Processos do gerente de projeto
+		Planejo mas não faço andar, quem atualiza os dados do cronograma é o projeto em si
+		(encher um lago)
+	ITIL
+	PROVA = diferenaça de projeto para x(21:06) (05/09/23)
+	Fazer a mais é errado
+	Saporra cai em prova: 4.6 Realizar o controle integrado de 
+	21:23 (05/09/23) (ele falando sobre questões da prova)
+	
+	Dictionary
+	Baselin........Linha de base: 
+	WBS............EAP
+	Budget.........Orçamento
+	Budgeting......Orçametação
+	Cost...........Custo
+	Escope.........Escopo
+	Milestone......Marcos
+	EAP............Estrurura analítica do projeto (diagrama)
+		Não há preocupação de sequencia
+		Tarefas que fazem o escopo
+		Detalhes, não
+	WBS............Work breakdown structure
+	Work Package...Pacote de trabalho
+	RM/CR..........Requisição de mudanças/CHANGE REQUEST
+	Roles..........Papeis
+	Point release..Data de entrega 
+
+- Iniciação
+- Planejamento
+- Execução
+- Monitoramento/Execução
+- Encerramento
+
+Área de trabalho dentro do projeto
+- Integração          
+- Escopo              }
+- Tempo / Cronograma  } Trio da ruana, tripla restrição (mexeu um mexeu com os outro)
+- Custo               }
+- Qualidade
+- Recursos (humanos)
+- Comunicação
+- Riscos
+- Aquisições
+- Partes interessadas
+
+Definição: 
+01 - Objetivo único
+02 - Projeto (início e fim determinados)
+
+
+Aula 02
+PMBOK se pronuncia bók, não book de livro
+PMI - PROJECT MANAGEMENT INSTITUTE
+PMP - PROJECT MANAGEMENT PROFESSIONAL
+MAXIMIANO PROJETOS - ADM DE PROJETOS
+
+Aula 04
+Planejamento
+Organização
+Contole
+Direção
+
+Stake holder = Partes interessadas
+
+Aula 05
+	eficas = bem feito
+	eficiente = rápido
+	
+Aula 06
+	Comparar oque foi planejado com o executado
+	Ver se conduziu conforme foi planjejado
+
+	Integração
+	vimos 4
+	Saporra cai em prova: 4.6 Realizar o controle integrado de mudanças
+	esponso banca (paga)
+	
+Aula 22/08/23	
+	Escopo é um texto dissertativo separado por sessões
+	5.2
+	
+Aula 23/08/23
+Coleta de requisito
+	- Entrevista
+	- Documentação
+	- Questionário/Survey
+	- Observação / Etnografia
+	
+	linha de base é o mundo ideal, datas de entrega, treinar, onde eu quero seguir.
+	slide 14 de requisito PMBOK5
+	requisito tem q ser rastreavel	
+	backLog = lista de requisito
+	
+	Clareza, coesão, coerencia
+	
+	Ultimo passo, pacote de trabalho (tarefa no infinitivo (ar)) // Não é o escopo escrito disertativamente, tarefa para chegar no item do escopo
+	Quebrar tarefa sempre que achar difícil ou a mesma tarefa poder diferenciar(janela /porta)
+	RACI, matriz de responsábilidade
+	Escopo são as taferas, não cronograma
+	
+	Paramos no PMBOK5 página 27
+	
+Aula 05/09/23
+	20:43 05.09.23
+	Regra dos 100%
+		1
+		|	 1.1]
+		|100%1.2]
+			 1.3]
+			|	1.3.1] (primeiro)  pacote de trabalho (work package)
+			100%1.3.2]
+				1.3.3]
+	
+	teste unit
+	teste int
+	Teste caixa branca
+	teste caixa preta
+	T.UAT = teste de aceitação do usuários
+	
+Aula 06.09.23
+	Ricardo Vargas, pmbok6
+	milestone, marcos (baseline de tempo)
+	Qual a diferença dum prject charp
+	termo de abertura foi genérico
+	plano de gerenciamento de escopo
+	eap com marcos divididos
+
+Aula 12.09.23
+	Cronograma
+		Principais motivos para não cuprir algo
+			01 - Usuário pediu coisa nova, aumentou tafera.
+			02 - Erro no desenvolvimento/execução da tarefa
+			03 - Incapacidade da execução da tarefa
+			04 - Fatores externos (servidor ia chegar e caiu ponte)
+				4.1- Acidente
+			05 - Erro de estimativa
+	
+	Serv dev		(aaa, teste unitário)
+	Serv homo		(30% do volume)
+	Serv produção	prod
+	
+	Controlar
+		
