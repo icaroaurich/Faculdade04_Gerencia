@@ -2,6 +2,9 @@ pmbok (6°a) 42 processos
 estrurura - fases ou grupos (5)
 
 Estudo
+	Entender oque está presente dentro de cada processo (os blocos lá)
+	Área do processo, vai cair
+	MDC = Método do caminho crítico
 	Pacote de trabalho = Item mais detalhado de trabalho, mais sintético, analítico
 	escopo = textual
 	EAP = tarefas, não são tarefas do cronograma (12.09.23 21:31)
@@ -24,6 +27,7 @@ Estudo
 	Baselin........Linha de base: 
 	WBS............EAP
 	Budget.........Orçamento
+	Orçamentação (Processo para chegar no orçamento)
 	Budgeting......Orçametação
 	Cost...........Custo
 	Escope.........Escopo
@@ -161,3 +165,16 @@ Aula 12.09.23
 	
 	Paarmos no PMBOK 6, pag 18
 	Vimos plano gerenciamento do cronograma & definir atividade
+Aula 13.09.23
+	Método do caminho crítico
+	
+	01 - Planejar o gerenciamento do cronograma
+	02 - Definir atividades
+	03 - sequenciar as atividades
+	04 - Estimar durações das atvdds
+	05 - Desenvolver cronograma
+	
+	Comparar o planjejado com o executado
+	Anote para justificar o atraso
+	
+	7.4 = Planejei x gastei
