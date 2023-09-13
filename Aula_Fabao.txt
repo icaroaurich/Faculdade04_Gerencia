@@ -2,6 +2,14 @@ pmbok (6°a) 42 processos
 estrurura - fases ou grupos (5)
 
 Estudo
+	Pacote de trabalho = Item mais detalhado de trabalho, mais sintético, analítico
+	escopo = textual
+	EAP = tarefas, não são tarefas do cronograma (12.09.23 21:31)
+	
+	Planejamento = Vou cuidar dessa porra como?
+		Excel?
+		Papel de pão
+	Método do caminho crítico
 	Por que que não tem nenhum processo dentro de iniciação(planejamento)? (12.09.23 20:42)
 		Processos do gerente de projeto
 		Planejo mas não faço andar, quem atualiza os dados do cronograma é o projeto em si
@@ -145,4 +153,11 @@ Aula 12.09.23
 	Serv produção	prod
 	
 	Controlar
-		
+	Caminho critico
+	
+	Oque me ajuda na estimativa?
+		experiencia = na sua área e do cliente (Experiencia dos 2 lados)
+			Noção do que tinha q fazer (telefonia de Fabão)
+	
+	Paarmos no PMBOK 6, pag 18
+	Vimos plano gerenciamento do cronograma & definir atividade
